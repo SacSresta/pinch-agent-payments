@@ -1,0 +1,12 @@
+[submodule "services/pinch-buyer-agent"]
+	path = services/pinch-buyer-agent
+	url = https://github.com/SacSresta/pinch-buyer-agent.git
+[submodule "services/pinch-merchant-agent"]
+	path = services/pinch-merchant-agent
+	url = https://github.com/SacSresta/pinch-merchant-agent.git
+[submodule "services/pinch-buyer-console"]
+	path = services/pinch-buyer-console
+	url = https://github.com/SacSresta/pinch-buyer-console.git
+[submodule "services/pinch-merchant-console"]
+	path = services/pinch-merchant-console
+	url = https://github.com/SacSresta/pinch-merchant-console.git
